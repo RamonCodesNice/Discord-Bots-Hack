@@ -1,13 +1,13 @@
 {
-    "account_id": "YOUR_DISCORD_ACCOUNT_ID",
+    "account_id": "1231302383166816308",
     "bot": {
-        "nickname": "RAID BY XXX",
-        "icon": "https://6.top4top.net/p_1415xrqem1.jpg",
+        "nickname": "Black Lizardz",
+        "icon": "https://ibb.co/cwdrZ5p",
         "token": "BOTS_TOKEN"
     },
     "guild": {
-        "id": "TARGET_GUILD_ID",
+        "id": "1270100095282708532",
         "new_icon": "https://6.top4top.net/p_1415xrqem1.jpg",
-        "new_name": "RAID BY XXX"
+        "new_name": "RAIDED BY Black Lizardz"
     }
 }
